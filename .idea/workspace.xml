@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eea67cc7-d4a1-4230-8afc-7c797cbad1c4" name="Changes" comment="Testxml">
+      <change afterPath="$PROJECT_DIR$/Screenshots/Algorand/AdvanceMint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/Algorand/Underwrite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/UnderwriteAlgorand/AdvanceMint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/UnderwriteAlgorand/BulkMInts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/UnderwriteAlgorand/Underwrite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/UnderwritePolygon/Underwrite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0a761a1c-6424-4fdf-8b3f-86dd3ce4dc37-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0fcf7d1e-a1fe-418e-a03c-62e51f7c2b22-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1d07526f-3963-4803-b4b4-ee0c9ce0f678-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2c201c96-1a70-46b0-afc7-8222a8fc6685-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2dd0e186-c61d-4c68-a3a3-b5b846d3c47a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3f2579e7-a6b6-4ab3-ac03-adec472f51da-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/438ce31c-0f13-40da-919d-12e0e72db6e7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/462362fb-8678-40de-8613-d65011f29273-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47ef1e3d-48bf-4b59-9416-b160e56d0110-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5cd18c3c-e0e6-48af-9b33-b952c4ba84e2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a4ad1f8-ce64-434e-85ec-c40da0814da9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/707c9140-561b-4219-b153-5a4bda320aa6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/70b01900-8efe-45f7-a6d3-7524c640386a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7b1594e1-6849-4a78-8595-f907a3dd541d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/84e2f458-a720-4548-b513-1b43a2136d7d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8b23d046-7203-4164-ac5c-312b162b4159-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8c434cd0-e314-4f5d-a1da-5d67e498207d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a42817ea-5a49-4528-8302-cf10527a4b54-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bd63287f-639f-4b32-990f-dc051276127a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c00aaab0-79ab-4fef-a111-d030d191281a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d0b02597-3068-4a98-8cb3-1bf486d7a976-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9a330fd-21db-4fdb-93e4-54eb7b155e54-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/environment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/executor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/key-metrics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgoReg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolygonReg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AdvancemintPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BulkmintPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/GetinsuranceAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/UnderwriteAlgorand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/UnderwritePolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ScreenshotUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/WaitUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RegressionSuite/Algorand/UnderwriteAlgorand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RegressionSuite/DataEntry/DebugClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RegressionSuite/Polygon/AdvancemintPoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RegressionSuite/Polygon/BulkmintPoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RegressionSuite/Polygon/UnderwritePoly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Advancemint/Testnet1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Advancemint/success1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Bulkmint/Testnet1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/Bulkmint/success1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserstack.yml" beforeDir="false" afterPath="$PROJECT_DIR$/browserstack.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/browserstack-javaagent.debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/browserstack-javaagent.debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/browserstack-javaagent.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/browserstack-javaagent.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/browserstack-plugin.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/browserstack-plugin.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GetInsurance/GetinsuranceAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Mint/Advancemint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Advancemint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Mint/Bulkmint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Bulkmint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RegressionSuite/EteAdvancemint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegressionSuite/Algorand/EteAdvancemint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RegressionSuite/EteBulkmint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegressionSuite/Algorand/EteBulkmint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Underwriting/Polygon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/MetaMask - Chrome Web Store 12.0.0.0.crx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.example/DayByDay/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.example/DayByDay/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GetInsurance/GetinsuranceAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MetaMask - Chrome Web Store 12.0.0.0.crx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Mint/Advancemint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Mint/Bulkmint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RegressionSuite/EteAdvancemint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RegressionSuite/EteBulkmint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Underwriting/Polygon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/DayByDay by packages/RegressionSuite.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/DayByDay by packages/RegressionSuite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/DayByDay by packages/RegressionSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/DayByDay by packages/RegressionSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/DayByDay by packages/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/DayByDay by packages/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-RegressionSuite.EteAdvancemint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-RegressionSuite.EteAdvancemint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-RegressionSuite.EteBulkmint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-RegressionSuite.EteBulkmint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Testnet" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDONtuVbs6IseVv&quot;,
+        &quot;number&quot;: 1
+      },
+      &quot;lastSeen&quot;: 1738721349486
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AstaQA/DBD&quot;,
+    &quot;accountId&quot;: &quot;fedd04b8-1f26-4174-a66f-7be80d0c6cec&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.github/workflows/testing.yml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/browserstack.yml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/AlgoReg.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/PolygonReg.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/base/BaseTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/Advancemint.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/AdvancemintPolygon.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/Bulkmint.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/BulkmintPolygon.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/GetinsuranceAlgo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/UnderwriteAlgorand.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/UnderwritePolygon.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/utils/ScreenshotUtil.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/RegressionSuite/Algorand/EteAdvancemint.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/RegressionSuite/Algorand/EteBulkmint.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/RegressionSuite/Algorand/UnderwriteAlgorand.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/RegressionSuite/Polygon/AdvancemintPoly.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/RegressionSuite/Polygon/BulkmintPoly.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/RegressionSuite/Polygon/UnderwritePoly.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/resources/config.properties" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2j2CAVOWHx0IBsRpVX9nLLcPSyc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Advancemint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdvancemintPolygon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Algorand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bulkmint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BulkmintPolygon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetinsuranceAlgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Poly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Polygon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnderwriteAlgorand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnderwriteConfig.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnderwritePolygon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WalletTest.executor&quot;: &quot;Run&quot;,
+    &quot;BROWSERSTACK_PLUGIN_ENABLED&quot;: &quot;false&quot;,
+    &quot;JUnit.AppTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.DayByDay [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
+    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.AdvancemintPoly.AdvancemintPoly.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AdvancemintPoly.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BulkmintPoly.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Eclipce-workplace/DBD/DayByDay/src/AlgoReg.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Eclipce-workplace/DBD/DayByDay/src/PolygonReg.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Eclipce-workplace/DBD/DayByDay/src/Smoke.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Eclipce-workplace/DBD/DayByDay/src/testing.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ETE Mint/Under.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EteAdvancemint.EteAdvancemint.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EteAdvancemint.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EteBulkmint.EteBulkmint.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EteBulkmint.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EteMint.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Regression Polygon.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UnderwriteAlgorand.UnderwriteAlgorand.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UnderwriteAlgorand.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UnderwritePoly.UnderwritePoly (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UnderwritePoly.UnderwritePoly.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WalletTest.WalletTEst.executor&quot;: &quot;Run&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Eclipce-workplace/DBD/DayByDay&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="base" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Eclipce-workplace\DBD\DayByDay\src\test" />
+      <recent name="C:\Eclipce-workplace\DBD\DayByDay" />
+      <recent name="C:\Eclipce-workplace\DBD\DayByDay\src" />
+      <recent name="C:\Eclipce-workplace\DBD\DayByDay\target" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AdvancemintPoly.AdvancemintPoly">
+    <configuration name="GetinsuranceAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pages.GetinsuranceAlgo" />
+      <module name="DayByDay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdvancemintPoly.AdvancemintPoly" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DayByDay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RegressionSuite.Polygon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RegressionSuite.Polygon" />
+      <option name="MAIN_CLASS_NAME" value="RegressionSuite.Polygon.AdvancemintPoly" />
+      <option name="METHOD_NAME" value="AdvancemintPoly" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Regression Algorand" type="TestNG">
+      <module name="DayByDay" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="RegressionSuite.Algorand" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+        <listener class="io.qameta.allure.testng.AllureTestNg" />
+        <listener class="io.qameta.allure.testng.AllureTestNgTestFilter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Regression Polygon" type="TestNG">
+      <module name="DayByDay" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="RegressionSuite.Polygon" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GetinsuranceAlgo" />
+      <item itemvalue="TestNG.Regression Algorand" />
+      <item itemvalue="TestNG.Regression Polygon" />
+      <item itemvalue="TestNG.AdvancemintPoly.AdvancemintPoly" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AdvancemintPoly.AdvancemintPoly" />
+        <item itemvalue="Application.GetinsuranceAlgo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eea67cc7-d4a1-4230-8afc-7c797cbad1c4" name="Changes" comment="" />
+      <created>1720575643674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720575643674</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Testxml">
+      <option name="closed" value="true" />
+      <created>1738649985182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738649985182</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Testxml">
+      <option name="closed" value="true" />
+      <created>1738650216588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738650216588</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Testxml">
+      <option name="closed" value="true" />
+      <created>1738721246201</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738721246201</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Jenkinsfile" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Testxml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testxml" />
+  </component>
+</project>

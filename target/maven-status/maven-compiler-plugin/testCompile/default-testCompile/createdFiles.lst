@@ -1,0 +1,7 @@
+RegressionSuite\EteBulkmint.class
+Mint\Bulkmint.class
+Underwriting\Polygon.class
+GetInsurance\GetinsuranceAlgo.class
+Mint\Advancemint.class
+RegressionSuite\EteAdvancemint.class
+RegressionSuite\UnderwritePoly.class
